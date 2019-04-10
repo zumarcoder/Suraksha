@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WomensafetyApp</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_display">Display</string>
+    <string name="title_activity_instructions">Instructions</string>
+    <string name="title_activity_verify">Verify</string>
+</resources>
